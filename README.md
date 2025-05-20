@@ -10,6 +10,11 @@ follow me for more free roblox cheats :3
 Personally, I was able to grind 100k+ in approximately 7 hours by running this script.
 
 # Loadstring Method
+V1
 ```lua
 pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/lilmond/BABFT_Autofarm/refs/heads/main/babft_autofarm_v1.lua'))() end)
+```
+V2
+```lua
+pcall(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/lilmond/BABFT_Autofarm/refs/heads/main/babft_autofarm_v2.lua'))() end)
 ```
